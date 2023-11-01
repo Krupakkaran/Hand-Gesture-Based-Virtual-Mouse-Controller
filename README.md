@@ -51,10 +51,10 @@ You can customize the following parameters in the script:
 click_threshold = 20
 move_threshold = 100
 
-##Acknowledgments
+## Acknowledgments
 
 This project was inspired by the need for an intuitive and interactive way to control the computer mouse using hand gestures.
 
-##Note
+## Note
 
 Don't forget to add your own image or GIF demonstrating the virtual mouse control in action.
